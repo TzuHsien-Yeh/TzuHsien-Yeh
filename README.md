@@ -16,4 +16,4 @@
 
 
 <div align="center">
-    <img src ="doc/for baby.png" alt="isolated" width="300"/>
+    <img src ="kotlin for baby.png" alt="isolated" width="300"/>
